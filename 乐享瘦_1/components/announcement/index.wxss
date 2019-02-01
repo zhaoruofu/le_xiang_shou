@@ -1,0 +1,46 @@
+
+page{
+    z-index: -99;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 80rpx;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rpx;
+}
+.img{
+    width: 56rpx;
+    height: 56rpx;
+    padding-left: 20rpx;
+}
+.detail{
+    text-align: center;
+    color: #005CA2;
+    vertical-align: middle;
+}
+.frame{
+    margin-right: 26rpx;
+    width: 100rpx;
+    height: 60rpx;
+    text-align: center;
+    box-sizing: border-box;
+    border:1rpx solid #005CA2;
+    border-radius: 10%;
+}
+.swiper_container {
+    height: 50rpx;
+    width: 60%;
+    margin-left: -90rpx;
+    vertical-align: middle;
+}
+.swiper_item {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 40rpx;
+    font-size: 35rpx;
+    color: #6B707C;
+    overflow: hidden;
+}

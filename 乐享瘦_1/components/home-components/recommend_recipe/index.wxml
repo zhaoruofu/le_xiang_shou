@@ -1,0 +1,76 @@
+
+<view class='food-time'>
+    <view class='nutrition-category'>
+         <text>早餐</text>
+    </view>
+    <view class='category'>
+        <view class='nutrition-element'>
+            <text>蛋白质：100g</text>
+            <text>维生素：50g</text>
+            <text>碳水化合物：100gsdfadfasdfas</text>
+        </view>
+        <view class='pic-element-container'>
+            <view class='food-constitute'>
+                <image class='food-pic' src='images/recipe-pic.jpg'></image>
+                <text class='food-text'>鸡蛋</text>
+            </view>
+            <view class='food-constitute'>
+                <image class='food-pic' src='images/recipe-pic2.jpg'></image>
+                <text class='food-text'>鸭梨</text>
+            </view>
+            <view>
+                <image class='food-pic' src='images/arrow_right.png'></image>
+            </view>
+        </view>
+    </view>
+    
+     <view class='nutrition-category'>
+         <text>午餐</text>
+    </view>
+     <view class='category'>
+        <view class='nutrition-element'>
+            <text>蛋白质：100g</text>
+            <text>维生素：50g</text>
+            <text>碳水化合物：100gsdfadfasdfas</text>
+        </view>
+        <view class='pic-element-container'>
+            <view class='food-constitute'>
+                <image class='food-pic' src='images/recipe-pic.jpg'></image>
+                <text class='food-text'>鸡蛋</text>
+            </view>
+            <view class='food-constitute'>
+                <image class='food-pic' src='images/recipe-pic2.jpg'></image>
+                <text class='food-text'>鸭梨</text>
+            </view>
+            <view>
+                <image class='food-pic' src='images/arrow_right.png'></image>
+            </view>
+        </view>
+    </view>
+
+     <view class='nutrition-category'>
+         <text>晚餐</text>
+    </view>
+     <view class='category1'>
+        <view class='nutrition-element'>
+            <text>蛋白质：100g</text>
+            <text>维生素：50g</text>
+            <text>碳水化合物：100gsdfadfasdfas</text>
+        </view>
+        <view class='pic-element-container'>
+            <view class='food-constitute'>
+                <image class='food-pic' src='images/recipe-pic.jpg'></image>
+                <text class='food-text'>鸡蛋</text>
+            </view>
+            <view class='food-constitute'>
+                <image class='food-pic' src='images/recipe-pic2.jpg'></image>
+                <text class='food-text'>鸭梨</text>
+            </view>
+            <view>
+                <image class='food-pic' src='images/arrow_right.png'></image>
+            </view>
+        </view>
+    </view>
+</view>
+
+

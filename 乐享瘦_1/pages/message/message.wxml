@@ -1,0 +1,8 @@
+
+<view class='container'>
+    <view class='sub-container'>
+        <image class='img' src='/images/home/exclamation.png'></image>
+        <text class='trainer'> 教练新菜谱已经下发 </text>
+    </view>
+    <text class='content'>您的菜谱已经生成，从12好到19号早、中、晚三餐，教练根据您的身体状况来生了合理膳食菜单，请您及时到每周食谱查看一下。</text>
+</view>

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-record": "/components/record/index"
+  },
+  "navigationBarTitleText": "健康数据"
+}

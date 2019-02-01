@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+      "v-recommend-recipe":"/components/home-components/recommend_recipe/index",
+      "v-common-banner":"/components/common-banner/index"
+  },
+  "navigationBarTitleText": "教练与服务"
+}

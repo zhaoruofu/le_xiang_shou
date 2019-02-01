@@ -1,0 +1,34 @@
+
+<v-common-banner />
+
+<view class='icon-container'>
+    <view class='sub-icon-container'>
+        <image class='img' src='/images/exercise/icon1.png'></image>
+        <text class='desc'>胸围</text>
+    </view>
+    <view class='sub-icon-container'>
+        <image class='img' src='/images/exercise/icon2.png'></image>
+        <text class='desc'>膘围</text>
+    </view>
+    <view class='sub-icon-container'>
+        <image class='img' src='/images/exercise/icon3.png'></image>
+        <text class='desc'>手臂</text>
+    </view>
+    <view class='sub-icon-container'>
+        <image class='img' src='/images/exercise/icon4.png'></image>
+        <text class='desc'>臂腿</text>
+    </view>
+    <view class='sub-icon-container'>
+        <image class='img' src='/images/exercise/icon5.png'></image>
+        <text class='desc'>步行</text>
+    </view>
+</view>
+
+<!-- <view class='video-container'>
+    <view class='video-container1'>
+        <video class='video1'></video>
+        <video class='video1'></video>
+        <video class='video1'></video>
+        <video class='video1'></video>
+    </view>
+</view> -->

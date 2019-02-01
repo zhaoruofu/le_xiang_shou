@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+      "v-home":"/components/home/index",
+      "v-announcement":"/components/announcement/index",
+     "v-recommend-recipe":"/components/home-components/recommend_recipe/index",
+     "v-video": "/components/home-components/video/index",
+     "v-popularizition": "/components/home-components/popularizition/index"
+  },
+  "navigationBarTitleText": "乐享瘦"
+}

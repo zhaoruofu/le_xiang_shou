@@ -1,0 +1,7 @@
+
+     <view class='recordss-container'>
+            <block wx:for="{{record}}" wx:key='id'>
+                <v-record records="{{item}}" /> 
+            </block>
+       </view>
+

@@ -1,0 +1,178 @@
+
+page{
+    background-color: #F9F9F9;
+    max-height: 2330rpx;
+}
+.banner{
+    width: 100%;
+    height: 400rpx;
+}
+.head-container{
+    height: 100rpx;
+    margin-top: -7rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.phone-face{
+    width: 50rpx;
+    height: 50rpx;
+}
+.p-f-ing{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 30rpx;
+    color: #ACACAC;
+}
+.phone-num{
+    margin-left: 15rpx;
+}
+.line{
+    position: relative;
+    top: 61rpx;
+    right: 186rpx;
+    box-sizing: border-box;
+    background-color: #46C7AE;
+    width: 50rpx;
+    height: 5rpx;
+}
+.icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #ffffff;
+}
+.sub-icon-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #999999;
+    font-size: 33rpx;
+}
+.img{
+    width: 145rpx;
+    height: 145rpx;
+}
+.history-more-container{
+    width: 100%;
+    height: 120rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    border-bottom: 1px solid #E8E8E8;
+}
+.history-report{
+    font-size: 35rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:0rpx 20rpx;
+}
+.report-img{
+    height: 40rpx;
+    width: 40rpx;
+}
+.history{
+    margin-left: 10rpx;
+    color: #ADADAD;
+}
+.history1{
+    font-size: 30rpx;
+    color: #ADADAD;
+    margin-right: 20rpx;
+}
+.swiper_container{
+    height: 170rpx;
+}
+.report-swiper-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 30rpx 20rpx;
+    /* box-sizing: border-box; */
+   
+}
+.swiper-img{
+    width: 150rpx;
+    height: 130rpx;
+}
+.right-arrow{
+    width: 40rpx;
+    height: 40rpx;
+}
+.text-part{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 70%;
+    margin: 0rpx 30rpx;
+}
+.report-date{
+    font-size: 34rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.report-explain{
+    font-size: 30rpx;
+    color: #ACACAC;
+    line-height: 35rpx;
+}
+.date-arrow{
+    color: #ACACAC;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.recommend-recipe{
+    width: 100%;
+    height: 130rpx; 
+    margin-top: 20rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    border-top: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
+}
+.trophy{
+    height: 30rpx;
+    width: 30rpx;
+}
+.trophy-recommend{
+    margin-left: 20rpx;
+}
+.recommend-text, .this-week{
+    color: #ADADAD;
+    font-size: 34rpx;
+}
+.this-week{
+    margin-right: 30rpx;
+}
+.recommend-lesson{
+    width: 100%;
+    height: 130rpx; 
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #ffffff;
+    border-top: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
+}
+.sub-lesson{
+    margin: 20rpx 20rpx;
+}
+.recommend-text{
+    margin-left: 20rpx;
+}
+.empty{
+    height: 500rpx;
+}

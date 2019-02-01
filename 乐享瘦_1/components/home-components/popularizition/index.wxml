@@ -1,0 +1,50 @@
+
+<view class='SP-container'>
+    <image class='food-img' src='../../../images/home/food.jpg'></image>
+    <view class='sub-container'>
+        <view class='equipment-container'>
+            <text class='equipment1'>装备  </text>
+             <text class='line'>' '</text>
+            <text>我们要怎么选，才能找到最适</text>
+        </view>
+        <view class='sub-low'>
+            <text>合自己的跑鞋？</text>
+        </view>
+        <view class='bottom-container'>
+            <view>
+                <image class='user-img' src='../../../images/home/User-64.png'></image>
+                <text class='text-number'>scholar </text>
+            </view>
+            <view>
+                <image class='user-img' src='../../../images/home/Eye-64.png'></image>
+                <text class='text-number'>31424</text>
+            </view>
+        </view>
+    </view>
+    <image class='right-arrow' src='../../../images/home/Right-64.png'></image>
+</view>
+
+<view class='SP-container'>
+    <image class='food-img' src='../../../images/home/food.jpg'></image>
+    <view class='sub-container'>
+        <view class='equipment-container'>
+            <text>装备  </text>
+            <text class='line'>' '</text>
+            <text>我们要怎么选，才能找到最适</text>
+        </view>
+        <view class='sub-low'>
+            <text>合自己的跑鞋？</text>
+        </view>
+        <view class='bottom-container'>
+            <view>
+                <image class='user-img' src='../../../images/home/User-64.png'></image>
+                <text class='text-number'>scholar </text>
+            </view>
+            <view>
+                <image class='user-img' src='../../../images/home/Eye-64.png'></image>
+                <text class='text-number'>31424</text>
+            </view>
+        </view>
+    </view>
+    <image class='right-arrow' src='../../../images/home/Right-64.png'></image>
+</view>

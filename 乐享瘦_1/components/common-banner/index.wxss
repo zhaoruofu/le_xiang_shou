@@ -1,0 +1,8 @@
+
+
+.swiper_container{
+    width: 100%;
+}
+.imgUrls{
+    width: 100%;
+}

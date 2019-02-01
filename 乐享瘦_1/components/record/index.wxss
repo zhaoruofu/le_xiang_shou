@@ -1,0 +1,78 @@
+
+.container{
+    background-color: white;
+    height: 190rpx;
+    width: 90%;
+    text-align: center;
+    margin: 40rpx auto auto auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+.bodyImg{
+    width: 70rpx;
+    height: 60rpx;
+}
+.addImg{
+    width: 70rpx;
+    height: 70rpx;
+    margin-right: 20rpx;
+}
+.newImg{
+    width: 70rpx;
+    height: 60rpx;
+    position: relative;
+    top: -69rpx;
+    left: -96rpx;
+}
+.sub-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #999999;
+    font-size: 28rpx;
+}
+.number{
+    color: #FF6600;
+    font-size: 70rpx;
+}
+.bottom-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.hidden-part-container{
+    background-color: white;
+    height: 190rpx;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    color: #999999;
+    font-size: 28rpx;
+}
+.personImg{
+    width: 150rpx;
+    height: 150rpx;
+}
+.heartImg{
+    width: 150rpx;
+    height: 150rpx;
+}
+.person-container{
+    display: flex;
+    flex-direction: column;
+}
+.heart-container{
+    display: flex;
+    flex-direction: column;
+}
