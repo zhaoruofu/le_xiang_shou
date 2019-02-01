@@ -1,7 +1,0 @@
-
-page{
-    background-color: #EDEDED;
-}
-.recordss-container{
-    min-height:2334rpx; 
-}
